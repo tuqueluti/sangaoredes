@@ -33,7 +33,7 @@ const products: Product[] = [
     id: 'mastro-regulavel',
     name: 'Postes / Mastro Regulável Copa em Aço',
     description: 'Postes robustos profissionais para vôlei e futevôlei de areia. Possuem sistema inovador e prático de regulagem de altura por trilho deslizante para ajuste preciso das modalidades, pintados com tinta eletrostática epóxi.',
-    imageUrl: 'https://res.cloudinary.com/dyae9e66f/image/upload/q_auto/f_auto/v1780401172/10_npbvtz.png',
+    imageUrl: 'https://res.cloudinary.com/dyae9e66f/image/upload/q_auto/f_auto/v1780441137/Captura_de_tela_2026-06-02_195717_hodgye.png',
     mlUrl: 'https://wa.me/554896818147?text=Ol%C3%A1%2C+gostaria+de+um+or%C3%A7amento+para+Postes+Mastro+Regul%C3%A1vel+Copa+em+A%C3%A7o%21',
     category: 'kits'
   },
@@ -472,31 +472,18 @@ export default function App() {
               <h3 className="font-display font-black text-xs uppercase tracking-widest text-white border-l-2 border-red-600 pl-3">DE ONDE VIEMOS</h3>
             </div>
             
-            {/* Double Images side-by-side */}
-            <div className="grid grid-cols-2 gap-3 mb-8">
-              <div className="aspect-square bg-zinc-950 border border-zinc-900 rounded-sm overflow-hidden">
-                <img 
-                  src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=300" 
-                  alt="Areia Quadra" 
-                  className="w-full h-full object-cover grayscale"
-                  referrerPolicy="no-referrer"
-                />
-              </div>
-              <div className="aspect-square bg-zinc-950 border border-zinc-900 rounded-sm overflow-hidden">
-                <img 
-                  src="https://images.unsplash.com/photo-1593787406536-3676a152d9cb?auto=format&fit=crop&q=80&w=300" 
-                  alt="Redes Oficiais" 
-                  className="w-full h-full object-cover grayscale"
-                  referrerPolicy="no-referrer"
-                />
-              </div>
+            {/* Single Image */}
+            <div className="aspect-[3/4] bg-zinc-950 border border-zinc-900 rounded-sm overflow-hidden mb-12">
+              <img 
+                src="https://res.cloudinary.com/dyae9e66f/image/upload/q_auto/f_auto/v1780441578/Captura_de_tela_2026-06-02_200356_josjvy.png" 
+                alt="De Onde Viemos" 
+                className="w-full h-full object-cover"
+                referrerPolicy="no-referrer"
+              />
             </div>
 
             <p className="text-zinc-400 text-xs leading-relaxed mb-6">
               Sediada em Araranguá/SC, a <strong>Sangão Redes Esportivas</strong> surgiu para combater a fragilidade de redes comuns de areia expostas ao sol de alto desgaste do litoral catarinense.
-            </p>
-            <p className="text-zinc-500 text-[11px] leading-relaxed mb-8">
-              Nosso laboratório desenvolve acabamentos marítimos e lonas grossas blindadas contra raios UV, permitindo que condomínios e arenas operem continuamente sem desgaste.
             </p>
           </div>
 
