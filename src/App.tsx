@@ -34,7 +34,7 @@ const products: Product[] = [
     name: 'Postes / Mastro Regulável Copa em Aço',
     description: 'Postes robustos profissionais para vôlei e futevôlei de areia. Possuem sistema inovador e prático de regulagem de altura por trilho deslizante para ajuste preciso das modalidades, pintados com tinta eletrostática epóxi.',
     imageUrl: 'https://res.cloudinary.com/dyae9e66f/image/upload/q_auto/f_auto/v1780441137/Captura_de_tela_2026-06-02_195717_hodgye.png',
-    mlUrl: 'https://wa.me/554896818147?text=Ol%C3%A1%2C+gostaria+de+um+or%C3%A7amento+para+Postes+Mastro+Regul%C3%A1vel+Copa+em+A%C3%A7o%21',
+    mlUrl: 'https://wa.me/554899468951?text=Ol%C3%A1%2C+gostaria+de+um+or%C3%A7amento+para+Postes+Mastro+Regul%C3%A1vel+Copa+em+A%C3%A7o%21',
     category: 'kits'
   },
   {
@@ -50,7 +50,7 @@ const products: Product[] = [
     name: 'Redes de Proteção para Arenas e Quadras',
     description: 'Redes de contenção de altíssima resistência produzidas em fios de Polietileno (PE) virgem de alta densidade 100% Nylon com tratamento anti-UV. Sob medida para fechamento lateral, fundos e teto de quadras esportivas.',
     imageUrl: 'https://res.cloudinary.com/dyae9e66f/image/upload/q_auto/f_auto/v1779915466/rededeprotecao_aczfwe.webp',
-    mlUrl: 'https://wa.me/554896818147?text=Ol%C3%A1%2C+gostaria+de+um+or%C3%A7amento+para+Redes+de+Prote%C3%A7%C3%A3o+para+Arenas+e+Quadras%21',
+    mlUrl: 'https://wa.me/554899468951?text=Ol%C3%A1%2C+gostaria+de+um+or%C3%A7amento+para+Redes+de+Prote%C3%A7%C3%A3o+para+Arenas+e+Quadras%21',
     category: 'personalizadas'
   },
   {
@@ -58,7 +58,7 @@ const products: Product[] = [
     name: 'Redes Esportivas Personalizadas',
     description: 'Exclusividade para sua Arena ou Clube! Fabricação sob medida com a inserção de logomarcas, faixas personalizadas com as cores do seu evento, torneio ou patrocinador. Alta definição e costura industrial.',
     imageUrl: 'https://res.cloudinary.com/dyae9e66f/image/upload/q_auto/f_auto/v1780400597/Captura_de_tela_2026-06-02_084311_obc1vj.png',
-    mlUrl: 'https://wa.me/554896818147?text=Ol%C3%A1%2C+gostaria+de+um+or%C3%A7amento+para+Redes+Esportivas+Personalizadas%21',
+    mlUrl: 'https://wa.me/554899468951?text=Ol%C3%A1%2C+gostaria+de+um+or%C3%A7amento+para+Redes+Esportivas+Personalizadas%21',
     category: 'personalizadas'
   },
   {
@@ -66,7 +66,7 @@ const products: Product[] = [
     name: 'Rede de Pickleball Oficial',
     description: 'Rede oficial de Pickleball confeccionada sob rigorosas normas internacionais. Fios de alta tenacidade com tratamento anti-UV, lona superior de PVC emborrachado com costura quádrupla e cabo de aço galvanizado para estiramento perfeito.',
     imageUrl: 'https://res.cloudinary.com/dyae9e66f/image/upload/q_auto/f_auto/v1780400378/_128096434_gettyimages-1243628730_jjin5q.jpg',
-    mlUrl: 'https://wa.me/554896818147?text=Ol%C3%A1%2C+gostaria+de+um+or%C3%A7amento+para+Rede+de+Pickleball+Oficial%21',
+    mlUrl: 'https://wa.me/554899468951?text=Ol%C3%A1%2C+gostaria+de+um+or%C3%A7amento+para+Rede+de+Pickleball+Oficial%21',
     category: 'redes'
   },
   {
@@ -74,7 +74,7 @@ const products: Product[] = [
     name: 'Rede de Pádel Profissional de Alta Resistência',
     description: 'Especialmente desenvolvida para arenas de Pádel. Fabricada em fios de polipropileno virgem, possui tratamento extra contra raios solares, lonas laterais protetoras e design planejado para absorver impactos sem deformação.',
     imageUrl: 'https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&q=80&w=600',
-    mlUrl: 'https://wa.me/554896818147?text=Ol%C3%A1%2C+gostaria+de+um+or%C3%A7amento+para+Rede+de+P%C3%A1del+Profissional%21',
+    mlUrl: 'https://wa.me/554899468951?text=Ol%C3%A1%2C+gostaria+de+um+or%C3%A7amento+para+Rede+de+P%C3%A1del+Profissional%21',
     category: 'redes'
   }
 ];
@@ -133,7 +133,7 @@ export default function App() {
       {/* Floating WhatsApp Button */}
       <a 
         id="whatsapp-floater"
-        href="https://wa.me/554896818147" 
+        href="https://wa.me/554899468951" 
         target="_blank" 
         rel="noopener noreferrer" 
         className="fixed bottom-8 right-8 z-50 flex items-center gap-3 bg-red-600 hover:bg-red-700 px-5 py-4 rounded-full shadow-[0_0_25px_rgba(220,38,38,0.5)] hover:scale-105 transition-all duration-300"
@@ -170,7 +170,7 @@ export default function App() {
           {/* Right quick button */}
           <div className="flex items-center gap-4">
             <a 
-              href="https://wa.me/554896818147"
+              href="https://wa.me/554899468951"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-red-600 hover:bg-red-700 text-white font-display text-[10px] font-black uppercase tracking-widest px-4 py-2.5 rounded transition-all"
@@ -221,7 +221,7 @@ export default function App() {
           {/* Centered Action Buttons */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full max-w-md">
             <a 
-              href="https://wa.me/554896818147" 
+              href="https://wa.me/554899468951" 
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto bg-red-600 hover:bg-red-705 text-white font-display text-[10px] md:text-xs font-black uppercase tracking-widest px-8 py-4.5 rounded-sm transition-all flex items-center justify-center gap-2 shadow-[0_0_20px_rgba(220,38,38,0.3)] hover:scale-[1.02]"
@@ -424,7 +424,7 @@ export default function App() {
               Entre em contato que acharemos a melhor solução para você.
             </p>
             <a
-              href="https://wa.me/554896818147"
+              href="https://wa.me/554899468951"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#128C7E] text-white font-display text-[11px] font-black uppercase tracking-widest px-8 py-4 rounded-sm transition-all"
@@ -451,7 +451,7 @@ export default function App() {
             Trabalhamos em conjunto com organizadores de torneios e federações catarinenses para entregar redes de alta tenacidade sem desgaste de maresia. Fale no canal direto da nossa gerência.
           </p>
           <a
-            href="https://wa.me/554896818147"
+            href="https://wa.me/554899468951"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-display text-[10px] font-black uppercase tracking-widest px-8 py-4 rounded-sm transition-all"
@@ -621,7 +621,7 @@ export default function App() {
                 </div>
                 <div className="min-w-[200px]">
                   <span className="text-[10px] font-mono text-zinc-500 uppercase font-bold block">WHATSAPP VENDAS</span>
-                  <a href="https://wa.me/554896818147" target="_blank" rel="noopener noreferrer" className="text-lg font-display font-black text-white hover:text-red-500 transition-colors">+55 48 9681-8147</a>
+                  <a href="https://wa.me/554899468951" target="_blank" rel="noopener noreferrer" className="text-lg font-display font-black text-white hover:text-red-500 transition-colors">+55 48 9946-8951</a>
                 </div>
               </div>
 

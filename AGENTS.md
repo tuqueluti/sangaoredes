@@ -21,4 +21,4 @@
 - **Diferenciais:** Infraestrutura (Tratamentos e garantias).
 - **Provas Sociais:** Apoios esportivos listados (Cristian Genuíno).
 - **Footer:** Informações de CNPJ presentes.
-- **WhatsApp Flutuante:** Link `https://wa.me/554896818147`.
+- **WhatsApp Flutuante:** Link `https://wa.me/554899468951`.
